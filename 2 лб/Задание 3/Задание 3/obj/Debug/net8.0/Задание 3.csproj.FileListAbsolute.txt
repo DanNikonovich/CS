@@ -1,0 +1,14 @@
+E:\КПиЯП\2 лб\Задание 3\Задание 3\bin\Debug\net8.0\Задание 3.exe
+E:\КПиЯП\2 лб\Задание 3\Задание 3\bin\Debug\net8.0\Задание 3.deps.json
+E:\КПиЯП\2 лб\Задание 3\Задание 3\bin\Debug\net8.0\Задание 3.runtimeconfig.json
+E:\КПиЯП\2 лб\Задание 3\Задание 3\bin\Debug\net8.0\Задание 3.dll
+E:\КПиЯП\2 лб\Задание 3\Задание 3\bin\Debug\net8.0\Задание 3.pdb
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.AssemblyInfoInputs.cache
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.AssemblyInfo.cs
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.csproj.CoreCompileInputs.cache
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.dll
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\refint\Задание 3.dll
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.pdb
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\Задание 3.genruntimeconfig.cache
+E:\КПиЯП\2 лб\Задание 3\Задание 3\obj\Debug\net8.0\ref\Задание 3.dll

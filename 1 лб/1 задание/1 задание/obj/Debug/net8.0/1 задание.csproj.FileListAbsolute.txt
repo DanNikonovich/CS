@@ -1,0 +1,14 @@
+E:\КПиЯП\1 лб\1 задание\1 задание\bin\Debug\net8.0\1 задание.exe
+E:\КПиЯП\1 лб\1 задание\1 задание\bin\Debug\net8.0\1 задание.deps.json
+E:\КПиЯП\1 лб\1 задание\1 задание\bin\Debug\net8.0\1 задание.runtimeconfig.json
+E:\КПиЯП\1 лб\1 задание\1 задание\bin\Debug\net8.0\1 задание.dll
+E:\КПиЯП\1 лб\1 задание\1 задание\bin\Debug\net8.0\1 задание.pdb
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.AssemblyInfoInputs.cache
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.AssemblyInfo.cs
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.csproj.CoreCompileInputs.cache
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.dll
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\refint\1 задание.dll
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.pdb
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\1 задание.genruntimeconfig.cache
+E:\КПиЯП\1 лб\1 задание\1 задание\obj\Debug\net8.0\ref\1 задание.dll

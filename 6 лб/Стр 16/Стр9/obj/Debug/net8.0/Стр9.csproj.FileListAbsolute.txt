@@ -1,0 +1,42 @@
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.AssemblyInfoInputs.cache
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.AssemblyInfo.cs
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.csproj.CoreCompileInputs.cache
+E:\КПиЯП\6 лб\Стр9\Стр9\bin\Debug\net8.0\Стр9.exe
+E:\КПиЯП\6 лб\Стр9\Стр9\bin\Debug\net8.0\Стр9.deps.json
+E:\КПиЯП\6 лб\Стр9\Стр9\bin\Debug\net8.0\Стр9.runtimeconfig.json
+E:\КПиЯП\6 лб\Стр9\Стр9\bin\Debug\net8.0\Стр9.dll
+E:\КПиЯП\6 лб\Стр9\Стр9\bin\Debug\net8.0\Стр9.pdb
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.dll
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\refint\Стр9.dll
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.pdb
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\Стр9.genruntimeconfig.cache
+E:\КПиЯП\6 лб\Стр9\Стр9\obj\Debug\net8.0\ref\Стр9.dll
+E:\КПиЯП\6 лб\Стр 9\Стр9\bin\Debug\net8.0\Стр9.exe
+E:\КПиЯП\6 лб\Стр 9\Стр9\bin\Debug\net8.0\Стр9.deps.json
+E:\КПиЯП\6 лб\Стр 9\Стр9\bin\Debug\net8.0\Стр9.runtimeconfig.json
+E:\КПиЯП\6 лб\Стр 9\Стр9\bin\Debug\net8.0\Стр9.dll
+E:\КПиЯП\6 лб\Стр 9\Стр9\bin\Debug\net8.0\Стр9.pdb
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.AssemblyInfoInputs.cache
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.AssemblyInfo.cs
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.csproj.CoreCompileInputs.cache
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.dll
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\refint\Стр9.dll
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.pdb
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\Стр9.genruntimeconfig.cache
+E:\КПиЯП\6 лб\Стр 9\Стр9\obj\Debug\net8.0\ref\Стр9.dll
+E:\КПиЯП\6 лб\Стр 16\Стр9\bin\Debug\net8.0\Стр9.exe
+E:\КПиЯП\6 лб\Стр 16\Стр9\bin\Debug\net8.0\Стр9.deps.json
+E:\КПиЯП\6 лб\Стр 16\Стр9\bin\Debug\net8.0\Стр9.runtimeconfig.json
+E:\КПиЯП\6 лб\Стр 16\Стр9\bin\Debug\net8.0\Стр9.dll
+E:\КПиЯП\6 лб\Стр 16\Стр9\bin\Debug\net8.0\Стр9.pdb
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.AssemblyInfoInputs.cache
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.AssemblyInfo.cs
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.csproj.CoreCompileInputs.cache
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.dll
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\refint\Стр9.dll
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.pdb
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\Стр9.genruntimeconfig.cache
+E:\КПиЯП\6 лб\Стр 16\Стр9\obj\Debug\net8.0\ref\Стр9.dll

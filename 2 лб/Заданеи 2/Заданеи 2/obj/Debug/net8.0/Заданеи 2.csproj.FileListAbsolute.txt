@@ -1,0 +1,14 @@
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.AssemblyInfoInputs.cache
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.AssemblyInfo.cs
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.csproj.CoreCompileInputs.cache
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\bin\Debug\net8.0\Заданеи 2.exe
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\bin\Debug\net8.0\Заданеи 2.deps.json
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\bin\Debug\net8.0\Заданеи 2.runtimeconfig.json
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\bin\Debug\net8.0\Заданеи 2.dll
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\bin\Debug\net8.0\Заданеи 2.pdb
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.dll
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\refint\Заданеи 2.dll
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.pdb
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\Заданеи 2.genruntimeconfig.cache
+E:\КПиЯП\2 лб\Заданеи 2\Заданеи 2\obj\Debug\net8.0\ref\Заданеи 2.dll

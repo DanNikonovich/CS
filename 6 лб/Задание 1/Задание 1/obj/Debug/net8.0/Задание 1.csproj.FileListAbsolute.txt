@@ -1,0 +1,14 @@
+E:\КПиЯП\6 лб\Задание 1\Задание 1\bin\Debug\net8.0\Задание 1.exe
+E:\КПиЯП\6 лб\Задание 1\Задание 1\bin\Debug\net8.0\Задание 1.deps.json
+E:\КПиЯП\6 лб\Задание 1\Задание 1\bin\Debug\net8.0\Задание 1.runtimeconfig.json
+E:\КПиЯП\6 лб\Задание 1\Задание 1\bin\Debug\net8.0\Задание 1.dll
+E:\КПиЯП\6 лб\Задание 1\Задание 1\bin\Debug\net8.0\Задание 1.pdb
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.AssemblyInfoInputs.cache
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.AssemblyInfo.cs
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.csproj.CoreCompileInputs.cache
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.dll
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\refint\Задание 1.dll
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.pdb
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\Задание 1.genruntimeconfig.cache
+E:\КПиЯП\6 лб\Задание 1\Задание 1\obj\Debug\net8.0\ref\Задание 1.dll
